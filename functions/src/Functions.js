@@ -1,23 +1,23 @@
-/* ─━━▞╋█┫   ◉ READ ◉   ┣█╋▚━━─ */
+/* ─━━▞╋█┫|   ◉ READ ◉   |┣█╋▚━━─ */
 export default function getFits() {
     return(
         
         )
     }
-/* ─━━▞╋█┫  ◉ CREATE ◉  ┣█╋▚━━─ */
+/* ─━━▞╋█┫|  ◉ CREATE ◉  |┣█╋▚━━─ */
 export default function addFit() {
     return(
         
         )
     }
-/* ─━━▞╋█┫  ◉ UPDATE ◉  ┣█╋▚━━─ */
+/* ─━━▞╋█┫|  ◉ UPDATE ◉  |┣█╋▚━━─ */
 export default function updateFit() {
     return(
         
         )
     }
         
-/* ─━━▞╋█┫  ◉ DELETE ◉  ┣█╋▚━━─ */
+/* ─━━▞╋█┫|  ◉ DELETE ◉  |┣█╋▚━━─ */
 export default function deleteFit() {
     return(
 
