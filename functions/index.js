@@ -1,7 +1,7 @@
 import functions from "firebase-functions"
 import express from "express"
 import cors from "cors"
-import { addFit, deleteFit, getFits, updateFit } from "./src/Functions.js"
+import { addFit, updateFit, getFits, deleteFit } from "./src/Functions.js"
 
 const app = express()
 app.use(express.json())
